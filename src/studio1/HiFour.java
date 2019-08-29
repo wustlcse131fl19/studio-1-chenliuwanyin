@@ -15,7 +15,6 @@ public class HiFour {
 		String s3 = ap.nextString("Enter value for arg 3");
 		//
 		// Say hello to the names in s0 through s3.
-		//
-
+		System.out.println("Hello " + s0 + ", " + s1 + ", " + s2 + ", " + s3 + ", " + "welcome to CSE 131/501N!");
 	}
 }
